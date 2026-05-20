@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1500&color=9B59B6&center=true&vCenter=true&width=1000&lines=👋+Hi+I'm+Mamta+Rathore;📊+Aspiring+Data+Scientist;📈+Data+Analyst;💡+Turning+Data+Into+Insights" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1500&color=9B59B6&center=true&vCenter=true&width=1000&lines=👋+Hi+I'm+Aman+Faras;📊+Aspiring+Data+Scientist;📈+Data+Analyst;💡+Turning+Data+Into+Insights" />
 
 ### 📊 Data Analyst | SQL | Power BI | Excel | Python | Machine Learning  
 
