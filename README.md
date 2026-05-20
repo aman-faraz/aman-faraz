@@ -9,14 +9,16 @@
 ---
 
 # 🚀 About Me
-** Aspiring Data Analyst with strong skills in Python, SQL, data analysis, and visualization. Experienced in
-performing data cleaning, exploratory data analysis, and building dashboards to generate actionable
-business insights. Passionate about transforming raw data into meaningful insights for decision-making. 
+** Data Analyst with expertise in Python, SQL, Databricks, ETL pipelines, PySpark, Power BI, and Data
+Warehousing concepts. Experienced in data ingestion, preprocessing, analytics reporting, and dashboard
+development through academic and internship projects. Built end-to-end analytics solutions using Databricks,
+Spark SQL, Delta Lake, and Lakehouse architecture for large-scale data processing and business intelligence. Strong
+understanding of data transformation, database optimization, machine learning workflows, and data-driven
+decision-making.
 
-
-- 🎓 **Bachelor's in Computer Science**
+- 🎓 **B.Tech in Computer Science (AI & DS)**
 - 📊 Skilled in **Data Analysis, Dashboard Development & Data Cleaning**
-- 🧠 Hands-on experience with **Python, SQL, Power BI & Excel**
+- 🧠 Hands-on experience with **Python, SQL,DataBricks, Power BI & Excel**
 - 🤖 Exploring **Machine Learning, Feature Engineering & Model Evaluation**
 
 ---
@@ -45,9 +47,9 @@ business insights. Passionate about transforming raw data into meaningful insigh
 ### 📫 Connect with Me  
 
 <p align="center">
-  <a href="mailto:rathoremamta615@gmail.com"><img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mamta-rathore-063577316/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@rathoremamta615" target="_blank">
+  <a href="mailto: amanfaras.work@gmail.com"><img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aman-faras/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@amanfaraz012" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://mamtarathoreportfolio.lovable.app/" target="_blank">
