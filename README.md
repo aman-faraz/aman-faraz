@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1500&color=9B59B6&center=true&vCenter=true&width=1000&lines=👋+Hi+I'm+Aman+Faras;📊+Aspiring+Data+Scientist;📈+Data+Analyst;💡+Turning+Data+Into+Insights" />
 
-### 📊 Data Analyst | SQL | Power BI | Excel | Python | Machine Learning  
+### 📊 Data Analyst | SQL | Power BI | Excel | Python | Machine Learning 
 
 </div>
 
@@ -52,7 +52,7 @@ decision-making.
   <a href="https://medium.com/@amanfaraz012" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://mamtarathoreportfolio.lovable.app/" target="_blank">
+  <a href="https://amanfaras.online/" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-FF4B8B?style=for-the-badge&logo=sparkfun&logoColor=white" />
   </a>
 </p>
